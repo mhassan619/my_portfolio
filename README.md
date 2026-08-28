@@ -1,76 +1,62 @@
 <div align="center">
+  
+  <h1>🤖 Muhammad Hassan | AI Engineer & LLM Builder</h1>
+  <p><b>Building AI That Ships — Production-grade AI systems, ML pipelines, and LLM-powered tools.</b></p>
 
-  <h1>💻 My Personal Portfolio Website</h1>
-  <p><b>Showcasing my technical journey, web applications, AI models, and software projects.</b></p>
-
-  [![GitHub stars](https://img.shields.io/github/stars/mhassan619/my_portfolio?style=for-the-badge&color=blue)](https://github.com/mhassan619/my_portfolio/stargazers)
-  [![GitHub forks](https://img.shields.io/github/forks/mhassan619/my_portfolio?style=for-the-badge&color=violet)](https://github.com/mhassan619/my_portfolio/network/members)
-  [![License](https://img.shields.io/badge/license-MIT-green.style=for-the-badge)](LICENSE)
-  [![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)]()
-
-  <br />
-
-  <a href="https://github.com/mhassan619/my_portfolio"><strong>Explore Code »</strong></a>
-  ·
-  <a href="https://github.com/mhassan619/my_portfolio/issues">Report Bug</a>
-  ·
-  <a href="https://github.com/mhassan619/my_portfolio/issues">Request Feature</a>
+  [![Portfolio](https://img.shields.io/badge/Website-Live-brightgreen?style=for-the-badge&logo=vercel)](https://github.com/mhassan619/my_portfolio)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mhassanaiengineer)
+  [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:mhassanawan66521@gmail.com)
 
 </div>
 
 ---
 
-## 🌟 Overview
+## 🚀 About Me
 
-Welcome to the repository of my personal portfolio website! This project is designed to present a sleek, interactive, and responsive showcase of my skills, projects, and achievements in **Software Development, Artificial Intelligence (AI/ML), and Full-Stack Web Development**.
+I am a passionate **AI Engineer and LLM Builder** based in Pakistan with 1+ years of hands-on experience in building intelligent systems. Currently pursuing my BS in Computer Science at the **University of Layyah** (GPA: 3.9/4.0), I bridge the gap between academic theory and production engineering.
 
-### Key Highlights:
-- 🎨 **Modern & Responsive UI**: Optimized for all device sizes (Mobile, Tablet, Desktop).
-- ⚡ **Fast Performance**: Light-weight structure ensuring fast page loads and smooth navigation.
-- 🛠️ **Project Showcase**: Displays highlighted projects with live demos and repository links.
-- 📱 **Interactive Contact Section**: Easy pathways for recruiters, collaborators, and visitors to connect.
+My mission is to build AI systems that are not just functional, but impactful—delivering intelligent automation and LLM-powered tools that create measurable value.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Skills
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Backend & AI/ML Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### Version Control & Deployment
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- **AI & Large Language Models:** LangChain, Retrieval-Augmented Generation (RAG), ChromaDB
+- **Machine Learning:** Scikit-learn, XGBoost, Random Forest (Classification & Regression)
+- **Frameworks & Backend:** Python, FastAPI, Streamlit
+- **Web Development:** HTML5, CSS3, UI/UX Design (as seen in this portfolio)
+- **Core Competencies:** AI Automation Pipelines, Web Scraping, ML Dashboards
 
 ---
 
-## 🚀 Featured Projects Highlighted in Portfolio
+## 💻 Featured Projects Built
 
-- **Image Quality Analyzer**: AI-driven tool built with **PyTorch** and **Flask** to analyze image sharpness and suitability for upscaling.
-- **Currency Converter Web App**: Real-time currency conversion tool built using **JavaScript** and external financial APIs.
-- **Automated Research Summarizer**: Conceptualized tool to summarize complex AI & IT papers into clear Urdu translations.
+Here are some of the key AI applications and tools I have developed:
+
+- 🎓 **UL AI Assistant:** A live AI web application deployed on Vercel, designed to assist university students.
+- 📄 **RAG PDF ChatBot:** An intelligent chatbot allowing users to interact with and query PDF documents using RAG architecture.
+- 📊 **ML Analytics Dashboard:** An interactive Streamlit dashboard covering 3 end-to-end Machine Learning projects with rich data visualizations.
+- ⚙️ **AI Automation Tools:** Built custom file organizers, GitHub analyzers, web scrapers, and API-integrated weather/news systems.
 
 ---
 
-## ⚙️ Local Setup Instructions
+## 🏆 Achievements & Awards
 
-To run this repository locally on your system:
+- 🥈 **2nd Position** — IEE South Punjab Hackathon 2026 (Generative AI Coding Challenge)
+- 🎓 **Honehaar Scholarship** — Awarded a 4-year full fee waiver for exceptional academic merit.
+- 💻 **Chief Minister Laptop Award** — Recognized for outstanding academic performance.
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/mhassan619/my_portfolio.git](https://github.com/mhassan619/my_portfolio.git)
+---
 
-Navigate to the project directory:
+## 🌐 Connect With Me
 
-   ```bash
-   cd my_portfolio
-   ```
-   
-Open in browser:
-Open index.html directly in your browser or launch it using a local server extension like Live Server in VS Code.
+I am actively seeking remote freelance opportunities and full-time AI engineering roles where I can drive impact at scale. Let's build something amazing!
+
+- **Email:** [mhassanawan66521@gmail.com](mailto:mhassanawan66521@gmail.com)
+- **LinkedIn:** [linkedin.com/in/mhassanaiengineer](https://www.linkedin.com/in/mhassanaiengineer)
+- **GitHub:** [github.com/mhassan619](https://github.com/mhassan619)
+
+<br/>
+<div align="center">
+  <sub>Designed & Developed with ❤️ by <b>Muhammad Hassan</b></sub>
+</div>
